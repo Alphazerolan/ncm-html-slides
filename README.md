@@ -6,7 +6,7 @@
 
 这是一份 20 页的中文交互演示，讲解 NCM 如何从粗到细生成文本。你可以观察自回归模型逐词生成、掩码扩散模型多轮去噪，再跟着一个例子走完 NCM 的文本编码、逐尺度生成和解码过程。
 
-**[在线演示](https://alphazerolan.github.io/ncm-html-slides/)** · [下载离线版（ZIP）](https://github.com/Alphazerolan/ncm-html-slides/archive/refs/heads/main.zip) · [原论文](https://arxiv.org/abs/2610.14162)
+**[在线演示](https://alphazerolan.github.io/ncm-html-slides/)** · [B 站视频｜【组会分享】NCM——下一概念模型](https://www.bilibili.com/video/BV1eLykzMEtf/) · [下载离线版（ZIP）](https://github.com/Alphazerolan/ncm-html-slides/archive/refs/heads/main.zip) · [原论文](https://arxiv.org/abs/2610.14162)
 
 解压后，双击 `index.html` 即可离线播放。想直接看 NCM，可以从[第 10 页「逐尺度生成」](https://alphazerolan.github.io/ncm-html-slides/#ncm-generation)开始，或跳到[第 12 页的编码示例](https://alphazerolan.github.io/ncm-html-slides/#ncm-example)。
 
@@ -31,7 +31,7 @@
 
 This 20-slide, Chinese-language presentation uses animations to show how NCM generates text from coarse to fine. Watch an autoregressive model generate one token at a time, compare it with masked diffusion over several denoising rounds, then follow one NCM example from text encoding through generation and decoding.
 
-**[Open the presentation](https://alphazerolan.github.io/ncm-html-slides/)** · [Download for offline use (ZIP)](https://github.com/Alphazerolan/ncm-html-slides/archive/refs/heads/main.zip) · [Read the paper](https://arxiv.org/abs/2610.14162)
+**[Open the presentation](https://alphazerolan.github.io/ncm-html-slides/)** · [Watch the group talk on Bilibili (in Chinese)](https://www.bilibili.com/video/BV1eLykzMEtf/) · [Download for offline use (ZIP)](https://github.com/Alphazerolan/ncm-html-slides/archive/refs/heads/main.zip) · [Read the paper](https://arxiv.org/abs/2610.14162)
 
 Unzip the download and open `index.html` in your browser. To go straight to NCM, start with [coarse-to-fine generation on slide 10](https://alphazerolan.github.io/ncm-html-slides/#ncm-generation) or [the worked encoding example on slide 12](https://alphazerolan.github.io/ncm-html-slides/#ncm-example).
 
